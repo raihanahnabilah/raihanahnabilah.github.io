@@ -1,8 +1,12 @@
 h1 {
     color: red;
-    font-family:'Lato',Arial, Helvetica, sans-serif;
+    font-family:'Lato';
 }
 
 #bold{
     font-weight: bold;
+}
+
+.brightyellow{
+    color: yellow;
 }
