@@ -20,10 +20,6 @@ a{
     color: #999;
 }
 
-a:hover{
-    text-decoration: underline;
-}
-
 h1{
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif'
