@@ -4,7 +4,8 @@ body, html{
     /* height:100%; */
     /* margin-left:20px; */
     /* margin-right:20px; */
-    background:#D3CFCC;
+    /* background:#D3CFCC; */
+    background-image: url("bg.jpg");
 }
 
 .header-img{
