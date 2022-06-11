@@ -11,6 +11,7 @@ import Featured from './pages/Featured';
 import Footer from './pages/Footer';
 import useLocalStorage from 'use-local-storage';
 import useModeController from './UseModeController';
+import PastInternships from './pages/PastInternships';
 
 function App() {
     const { theme, setTheme, switchTheme } = useModeController();
@@ -24,6 +25,8 @@ function App() {
         <PortfolioOne/>
         <Title title = "pm"/>
         <PortfolioTwo/>
+        <Title title = "internships"/>
+        <PastInternships/>
         <Title title = "featured"/>
         <Featured/>
         <Footer/>
