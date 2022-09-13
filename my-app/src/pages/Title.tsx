@@ -5,7 +5,7 @@ const Title: FC<{
 }> = (props) => {
     const {title} = props
 
-    const finalTitle = title === "swe" ? "SWE Portfolio" : title === "internships" ? "Past Internships" : title === "featured" ? "Featured" : title === "pm" ? "PM Portfolio" : null;
+    const finalTitle = title === "swe" ? "Programming Portfolio" : title === "internships" ? "Past Internships" : title === "featured" ? "Featured" : title === "pm" ? "UI Design Portfolio" : null;
 
     return (
         <div>
