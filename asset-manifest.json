@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bdeaa7f.css",
-    "main.js": "/static/js/main.78f17bce.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/static/css/main.cb0a8747.css",
+    "main.js": "/static/js/main.37fcf297.js",
+    "static/js/787.676fbc64.chunk.js": "/static/js/787.676fbc64.chunk.js",
+    "static/media/Fruits_Modal.png": "/static/media/Fruits_Modal.0b8acf2273972ae8e847.png",
+    "static/media/Pub_Modal.png": "/static/media/Pub_Modal.0d945a9b3471aaa769ad.png",
+    "static/media/Popsicle_Modal.png": "/static/media/Popsicle_Modal.1065583b820e35207ea6.png",
     "static/media/Backgrou.jpg": "/static/media/Backgrou.c69efd2ad29dadd9d765.jpg",
     "static/media/Hana-Profile.jpg": "/static/media/Hana-Profile.73977c14549a471bfba7.jpg",
     "static/media/CaptureThePopsicle.png": "/static/media/CaptureThePopsicle.c6314feac7ad13bb13a3.png",
     "static/media/CaptureTheFruitsCombined.png": "/static/media/CaptureTheFruitsCombined.d7c9a1887d7f59cba119.png",
     "static/media/Shopee.png": "/static/media/Shopee.fe61e1571a3d8e38f987.png",
     "static/media/GeneralSans-VariableItalic.ttf": "/static/media/GeneralSans-VariableItalic.37a2c9e4ec944dec5059.ttf",
+    "static/media/Grab_Modal.png": "/static/media/Grab_Modal.80875e0adc2a574c2836.png",
     "static/media/Split.png": "/static/media/Split.bba0b8b15ae2872c83f9.png",
     "static/media/GeneralSans-Variable.ttf": "/static/media/GeneralSans-Variable.d7facbbe2ed9ae4aae49.ttf",
     "static/media/Grab.png": "/static/media/Grab.9667c4433c58115bec11.png",
@@ -16,6 +20,7 @@
     "static/media/GeneralSans-MediumItalic.ttf": "/static/media/GeneralSans-MediumItalic.8eb302fc9872cba25291.ttf",
     "static/media/GeneralSans-Italic.ttf": "/static/media/GeneralSans-Italic.61b5c6351467c3e67236.ttf",
     "static/media/GeneralSans-SemiboldItalic.ttf": "/static/media/GeneralSans-SemiboldItalic.e325608e1fa36dcac179.ttf",
+    "static/media/Shopee_Modal.png": "/static/media/Shopee_Modal.4534c748e10317298647.png",
     "static/media/GeneralSans-Light.ttf": "/static/media/GeneralSans-Light.69935ec696c32e0cb38b.ttf",
     "static/media/GeneralSans-Regular.ttf": "/static/media/GeneralSans-Regular.6d91885b9c7fa66bdd05.ttf",
     "static/media/GeneralSans-BoldItalic.ttf": "/static/media/GeneralSans-BoldItalic.89074cc2992a9e354b7f.ttf",
@@ -24,6 +29,7 @@
     "static/media/GeneralSans-Semibold.ttf": "/static/media/GeneralSans-Semibold.f6a5bacab0316e8117bb.ttf",
     "static/media/GeneralSans-Extralight.ttf": "/static/media/GeneralSans-Extralight.e9e1615018c62dee6364.ttf",
     "static/media/GeneralSans-Bold.ttf": "/static/media/GeneralSans-Bold.148ea237c2c383c0be34.ttf",
+    "static/media/Split_Modal.png": "/static/media/Split_Modal.5a90d7150a0a4a014dea.png",
     "static/media/PubApp.png": "/static/media/PubApp.c595d9683eaddab17261.png",
     "static/media/GeneralSans-VariableItalic.woff2": "/static/media/GeneralSans-VariableItalic.8d45d5d416206c70daeb.woff2",
     "static/media/GeneralSans-Variable.woff2": "/static/media/GeneralSans-Variable.65a7e76e15a342e2ed8f.woff2",
@@ -54,12 +60,12 @@
     "static/media/GeneralSans-ExtralightItalic.woff2": "/static/media/GeneralSans-ExtralightItalic.3d55e7e4573d13e89567.woff2",
     "static/media/GeneralSans-Extralight.woff2": "/static/media/GeneralSans-Extralight.d6a4332df60f058537bf.woff2",
     "index.html": "/index.html",
-    "main.3bdeaa7f.css.map": "/static/css/main.3bdeaa7f.css.map",
-    "main.78f17bce.js.map": "/static/js/main.78f17bce.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.cb0a8747.css.map": "/static/css/main.cb0a8747.css.map",
+    "main.37fcf297.js.map": "/static/js/main.37fcf297.js.map",
+    "787.676fbc64.chunk.js.map": "/static/js/787.676fbc64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bdeaa7f.css",
-    "static/js/main.78f17bce.js"
+    "static/css/main.cb0a8747.css",
+    "static/js/main.37fcf297.js"
   ]
 }
