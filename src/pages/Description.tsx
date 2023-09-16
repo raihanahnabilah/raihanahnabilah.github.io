@@ -15,10 +15,9 @@ const Description = () => {
                     Hi, I am Hana 👋
                 {/*</Highlight>*/}
             </Heading>
-            <Text marginLeft='4em' marginRight='4em'>
-            I am a final year computer science student at Yale-NUS College 
-            with a wide range of experience in tech industry, starting from Data Analytics, 
-            UI/UX Design, Product Management, to Software Engineering (Full-Stack). 
+            <Text marginLeft='1em' marginRight='1em'>
+                🎓 I am a final year student at Yale-NUS.<br/>
+                💻 2-year internship experience in software engineering.<br/>
             </Text>
             <Link href="https://github.com/raihanahnabilah/" isExternal>
                 <Button marginTop="1.5em" gap="0.5em">
