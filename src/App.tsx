@@ -20,21 +20,24 @@ import UIPortfolio from "./pages/UIPortfolio";
 import Timeline from "./pages/Timeline";
 import Featured from "./pages/Featured";
 import Footer from "./pages/Footer";
+import HackathonPortfolio from "./pages/HackathonPortfolio";
 
 export const App = () => (
   <ChakraProvider theme={theme}>
     <Header/>
     <Profile/>
     <Description/>
-      <Title title="swe"/>
+    <Title title="hackathon"/>
+    <HackathonPortfolio/>
+    <Title title="swe"/>
     <SWEPortfolio/>
-      <Title title="pm"/>
-      <UIPortfolio/>
-      <Title title="timeline"/>
-      <Timeline/>
-      <Title title="featured"/>
-      <Featured/>
-      <Footer/>
+    <Title title="pm"/>
+    <UIPortfolio/>
+    <Title title="timeline"/>
+    <Timeline/>
+    <Title title="featured"/>
+    <Featured/>
+    <Footer/>
       {/*<Feature/>*/}
     {/*<Box textAlign="center" fontSize="xl">*/}
     {/*  <Grid minH="100vh" p={3}>*/}

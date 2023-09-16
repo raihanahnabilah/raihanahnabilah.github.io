@@ -48,6 +48,20 @@ const Timeline = () => {
                         Software Engineering Intern<br/>
                     </div>
                 </li>
+                <li className="in-view">
+                    <div>
+                        2022 - 2023 <br/>
+                        Kargo Technologies<br/>
+                        Software Engineering Intern<br/>
+                    </div>
+                </li>
+                <li className="in-view">
+                    <div>
+                        2023<br/>
+                        SAP<br/>
+                        Software Engineering Intern<br/>
+                    </div>
+                </li>
             </ul>
             <Box className="description">
                 <Text fontSize='lg'>

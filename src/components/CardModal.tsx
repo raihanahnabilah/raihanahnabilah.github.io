@@ -67,8 +67,15 @@ props
                         <Text fontSize='md'>{motivation}</Text>
                         <Heading as='h4' size='m' marginTop='1em'>Skills</Heading>
                         <Text fontSize='md'>{stack}</Text>
-                        <Heading as='h4' size='m' marginTop='1em'>Documentation</Heading>
-                        <Text fontSize='md'>Click <Link color='teal.500' href={link} isExternal>here</Link> to access the presentation and or documentation.</Text>
+                        {
+                            link.length > 0 ?
+                            <>
+                            <Heading as='h4' size='m' marginTop='1em'>Documentation</Heading>
+                            <Text fontSize='md'>Click <Link color='teal.500' href={link} isExternal>here</Link> to access the presentation and or documentation.</Text>
+                            </>
+                            :
+                            null
+                        }
                         {/*<Heading as='h4' size='m' marginTop='1em'>Demo</Heading>*/}
                         {/*<AspectRatio maxW='560px' ratio={16/9}>*/}
                         {/*    <iframe*/}

@@ -6,10 +6,23 @@ import CaptureThePopsicle from "../images/CaptureThePopsicle.png"
 import FruitsImage from "../images/Fruits_Modal.png";
 import PubImage from "../images/Pub_Modal.png";
 import PopsicleImage from "../images/Popsicle_Modal.png";
+import FlickrScraper from "../images/FlickrScraper.png";
+import FlickrScraperFront from "../images/FlickrScraperFront.png";
 
 const SWEPortfolio = () => {
     return(
         <Box className="grid-container">
+            <CardModal picture={FlickrScraperFront}
+                        title="Go Flickr Scraper"
+                        description="A scraper to download more than 500 pictures of multiple albums in one go!"
+                        modalDescription="A scraper to download more than 500 pictures of multiple albums in one go!"
+                        motivation="In my part-time job as a Student Associate for Student Affairs Office at Yale-NUS College, I got a task to migrate some of the College's albums from Flickr to Share Point Drive. Flickr has the Download functionality where users can download 500 pictures in one go; however, for albums with pictures more than 500, this Download functionality wouldn't work. I feel challenged to put my Software Engineering skills into use, and I started looking into Flickr's Service APIs and Open Source projects. I built this scraper, where I used Flickr's Service APIs and Golang concurrency."
+                        stack="Go"
+                        link=''
+                        demo=''
+                        pictureModal={FlickrScraper}
+                        projectLink='https://github.com/raihanahnabilah/go-flickr-scraper'
+            />
             <CardModal picture={CaptureTheFruits}
                        title="Capture the Fruits Game"
                        description="A 2D single player game built using Typescript and ReactJS."
